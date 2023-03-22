@@ -6,3 +6,7 @@ An issue I ran into today.. This solved it
 2. Type rm -rf .git on it and press enter
 3. This command will remove that repo no files will be deleted its safe to use
 4. Create a new repo to push
+
+
+
+Video @ 12:56
