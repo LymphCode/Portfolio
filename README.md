@@ -9,4 +9,10 @@ An issue I ran into today.. This solved it
 
 
 
-Video @ 20:58
+Video @ 41:58
+
+
+logo change @ 26:26
+
+3D models @ 57:22
+
